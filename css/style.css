@@ -340,7 +340,7 @@ body{
   padding: 10px 35px;
   box-sizing: border-box;
   /*position: relative;*/
-  float: left;
+  float: right;
   /*right:90%;*/
   /*opacity:0.8;*/
   background:#Fff;
@@ -409,6 +409,7 @@ li ol li{
   font-variant: small-caps;
   font-size: 3em;
   line-height: 57px;
+  margin-right= -10px;
 }
 .button{
   width:100%;
