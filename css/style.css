@@ -1,4 +1,4 @@
-
+﻿
 /*
 
 #cd2929 red
@@ -444,16 +444,28 @@ li ol li{
   padding-top: 35px;
 }
 .ins{
-  text-decoration: none;
+   text-decoration: none;
   color:inherit;
-  font-family: 'Exo2.0-Thin',sans-serif;
-  font-size: 1.8em;
-  background: #F4831C;
+  font-family: 'Exo2.0-Bold.otf',cursive;
+  font-size: 25;
+  background: #f15e02;
   padding: 0.3em;
   padding-left: 0.6em;
   padding-right: 0.6em;
-  box-shadow: .1em .1em .2em #333;
-  border-radius: .15em;
+  box-shadow: 3px 3px 3px #0dffde;
+  border-radius: 15px;
+}
+.ins:active{
+   text-decoration: none;
+  color:orange;
+  font-family: 'Exo2.0-Bold.otf',cursive;
+  font-size: 25;
+  background: white;
+  padding: 0.3em;
+  padding-left: 0.6em;
+  padding-right: 0.6em;
+  box-shadow: 3px 3px 3px #06ec18;
+  border-radius: 15px;
 }
 .contact{
   font-family: 'Exo2.0-Regular',sans-serif;
